@@ -22,6 +22,7 @@
 		0DBA379A22135FC00061F72F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DBA379D22135FC00061F72F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DBA379F22135FC00061F72F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DBA37A72213635A0061F72F /* gtr_logo_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_1818032_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gtr_logo_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_1818032_o.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				0DBA379A22135FC00061F72F /* Assets.xcassets */,
 				0DBA379C22135FC00061F72F /* LaunchScreen.storyboard */,
 				0DBA379F22135FC00061F72F /* Info.plist */,
+				0DBA37A72213635A0061F72F /* gtr_logo_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_1818032_o.jpg */,
 			);
 			path = "GitHub Example";
 			sourceTree = "<group>";
